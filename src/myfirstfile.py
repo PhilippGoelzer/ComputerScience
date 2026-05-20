@@ -32,4 +32,5 @@ server_socket.close()
 
 print("Verbindungen geschlossen")
 print("Programm Ende")
+print("Das ist eine gute Idee")
 
